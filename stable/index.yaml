@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2020-06-04T08:30:05.878627766Z"
+entries:
+  demo2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-04T08:57:36.252244564Z"
+    description: A Helm chart for Kubernetes
+    digest: f4e7611e6d182dcade58653533b84b8164573c539862ff7458e53107fbd488ce
+    name: demo2
+    type: application
+    urls:
+    - https://github.com/suslmk/HelmChartRepo/stable/demo2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-04T08:57:36.251327922Z"
